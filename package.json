@@ -1,15 +1,13 @@
 {
-  "name": "portfolio",
+  "name": "apollo-subscriptions-boilerplate",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "As I'm Forgetful person, I'm keeping such boilerplates for future use cases",
   "scripts": {
     "start": "webpack serve --port 3000",
     "build": "NODE_ENV=production webpack"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Emad Baqeri",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
